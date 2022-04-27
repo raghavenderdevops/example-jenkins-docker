@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1650977454,,"wq"
+|2,0,1651062810,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,38 +25,54 @@
 # Registers:
 
 # File marks:
-'0  4  25  ~/javaapp/Dockerfile
-|4,48,4,25,1650977454,"~/javaapp/Dockerfile"
-'1  5  0  ~/javaapp/Helloworld.java
-|4,49,5,0,1650977213,"~/javaapp/Helloworld.java"
-'2  2  0  ~/javaapp/Helloworld.java
-|4,50,2,0,1650977169,"~/javaapp/Helloworld.java"
+'0  1  17  ~/raghu.txt
+|4,48,1,17,1651062810,"~/raghu.txt"
+'1  4  25  ~/javaapp/Dockerfile
+|4,49,4,25,1650977454,"~/javaapp/Dockerfile"
+'2  5  0  ~/javaapp/Helloworld.java
+|4,50,5,0,1650977213,"~/javaapp/Helloworld.java"
 '3  2  0  ~/javaapp/Helloworld.java
 |4,51,2,0,1650977169,"~/javaapp/Helloworld.java"
-'4  4  11  ~/javaapp/Dockerfile
-|4,52,4,11,1650977068,"~/javaapp/Dockerfile"
-'5  2  0  ~/javaapp/Helloworld.java
-|4,53,2,0,1650976486,"~/javaapp/Helloworld.java"
+'4  2  0  ~/javaapp/Helloworld.java
+|4,52,2,0,1650977169,"~/javaapp/Helloworld.java"
+'5  4  11  ~/javaapp/Dockerfile
+|4,53,4,11,1650977068,"~/javaapp/Dockerfile"
 '6  2  0  ~/javaapp/Helloworld.java
 |4,54,2,0,1650976486,"~/javaapp/Helloworld.java"
-'7  5  0  ~/javaapp/Dockerfile
-|4,55,5,0,1650976101,"~/javaapp/Dockerfile"
+'7  2  0  ~/javaapp/Helloworld.java
+|4,55,2,0,1650976486,"~/javaapp/Helloworld.java"
 '8  5  0  ~/javaapp/Dockerfile
 |4,56,5,0,1650976101,"~/javaapp/Dockerfile"
 '9  5  0  ~/javaapp/Dockerfile
 |4,57,5,0,1650976101,"~/javaapp/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  17  ~/raghu.txt
+|4,39,1,17,1651062810,"~/raghu.txt"
+-'  4  25  ~/javaapp/Dockerfile
+|4,39,4,25,1650977454,"~/javaapp/Dockerfile"
 -'  4  25  ~/javaapp/Dockerfile
 |4,39,4,25,1650977454,"~/javaapp/Dockerfile"
 -'  5  0  ~/javaapp/Helloworld.java
 |4,39,5,0,1650977213,"~/javaapp/Helloworld.java"
 -'  5  0  ~/javaapp/Helloworld.java
 |4,39,5,0,1650977213,"~/javaapp/Helloworld.java"
+-'  5  0  ~/javaapp/Helloworld.java
+|4,39,5,0,1650977213,"~/javaapp/Helloworld.java"
+-'  5  0  ~/javaapp/Helloworld.java
+|4,39,5,0,1650977213,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
 |4,39,2,0,1650977181,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
 |4,39,2,0,1650977181,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650977181,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650977181,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650977169,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650977169,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
 |4,39,2,0,1650977169,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
@@ -69,6 +85,14 @@
 |4,39,4,11,1650977068,"~/javaapp/Dockerfile"
 -'  4  11  ~/javaapp/Dockerfile
 |4,39,4,11,1650977068,"~/javaapp/Dockerfile"
+-'  4  11  ~/javaapp/Dockerfile
+|4,39,4,11,1650977068,"~/javaapp/Dockerfile"
+-'  4  11  ~/javaapp/Dockerfile
+|4,39,4,11,1650977068,"~/javaapp/Dockerfile"
+-'  4  11  ~/javaapp/Dockerfile
+|4,39,4,11,1650977068,"~/javaapp/Dockerfile"
+-'  4  11  ~/javaapp/Dockerfile
+|4,39,4,11,1650977068,"~/javaapp/Dockerfile"
 -'  5  0  ~/javaapp/Dockerfile
 |4,39,5,0,1650977052,"~/javaapp/Dockerfile"
 -'  5  0  ~/javaapp/Dockerfile
@@ -79,6 +103,24 @@
 |4,39,5,0,1650977052,"~/javaapp/Dockerfile"
 -'  5  0  ~/javaapp/Dockerfile
 |4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650977052,"~/javaapp/Dockerfile"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650976486,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650976486,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650976486,"~/javaapp/Helloworld.java"
+-'  2  0  ~/javaapp/Helloworld.java
+|4,39,2,0,1650976486,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
 |4,39,2,0,1650976486,"~/javaapp/Helloworld.java"
 -'  2  0  ~/javaapp/Helloworld.java
@@ -103,6 +145,22 @@
 |4,39,5,0,1650976101,"~/javaapp/Dockerfile"
 -'  5  0  ~/javaapp/Dockerfile
 |4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
+-'  5  0  ~/javaapp/Dockerfile
+|4,39,5,0,1650976101,"~/javaapp/Dockerfile"
 -'  1  0  ~/javaapp/Dockerfile
 |4,39,1,0,1650976087,"~/javaapp/Dockerfile"
 -'  1  0  ~/javaapp/Dockerfile
@@ -129,90 +187,32 @@
 |4,39,1,0,1650976087,"~/javaapp/Dockerfile"
 -'  1  0  ~/javaapp/Dockerfile
 |4,39,1,0,1650976087,"~/javaapp/Dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
--'  1  0  ~/javaapp/dockerfile
-|4,39,1,0,1650976080,"~/javaapp/dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
+-'  1  0  ~/javaapp/Dockerfile
+|4,39,1,0,1650976087,"~/javaapp/Dockerfile"
 -'  1  0  ~/javaapp/dockerfile
 |4,39,1,0,1650976080,"~/javaapp/dockerfile"
 -'  1  0  ~/javaapp/dockerfile
@@ -249,6 +249,13 @@
 |4,39,1,0,1650976080,"~/javaapp/dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/raghu.txt
+	*	1651062805	0
+	"	1	17
+	^	1	18
+	.	1	18
+	+	1	18
 
 > ~/javaapp/Dockerfile
 	*	1650977440	0
